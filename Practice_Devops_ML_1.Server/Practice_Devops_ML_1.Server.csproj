@@ -17,6 +17,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="bin\Debug\net8.0\appsettings.Development.json" />
+    <Content Include="bin\Debug\net8.0\appsettings.json" />
+    <Content Include="bin\Debug\net8.0\Practice_Devops_ML_1.Server.deps.json" />
+    <Content Include="bin\Debug\net8.0\Practice_Devops_ML_1.Server.runtimeconfig.json" />
+    <Content Include="bin\Debug\net8.0\publish\appsettings.Development.json" />
+    <Content Include="bin\Debug\net8.0\publish\appsettings.json" />
+    <Content Include="bin\Debug\net8.0\publish\Practice_Devops_ML_1.Server.deps.json" />
+    <Content Include="bin\Debug\net8.0\publish\Practice_Devops_ML_1.Server.runtimeconfig.json" />
+    <Content Include="bin\Debug\net8.0\publish\wwwroot\assets\index-BPvgi06w.css" />
+    <Content Include="bin\Debug\net8.0\publish\wwwroot\index.html" />
+    <Content Include="bin\Debug\net8.0\spa.proxy.json" />
     <Content Include="obj\Debug\net8.0\Practice_Devops_ML_1.Server.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\net8.0\Practice_Devops_ML_1.Server.sourcelink.json" />
     <Content Include="obj\Debug\net8.0\PublishOutputs.c28418f143.txt" />
@@ -51,6 +62,25 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll" />
+    <None Include="bin\Debug\net8.0\Microsoft.OpenApi.dll" />
+    <None Include="bin\Debug\net8.0\Practice_Devops_ML_1.Server.dll" />
+    <None Include="bin\Debug\net8.0\Practice_Devops_ML_1.Server.exe" />
+    <None Include="bin\Debug\net8.0\Practice_Devops_ML_1.Server.pdb" />
+    <None Include="bin\Debug\net8.0\publish\Microsoft.AspNetCore.SpaProxy.dll" />
+    <None Include="bin\Debug\net8.0\publish\Microsoft.OpenApi.dll" />
+    <None Include="bin\Debug\net8.0\publish\Practice_Devops_ML_1.Server.dll" />
+    <None Include="bin\Debug\net8.0\publish\Practice_Devops_ML_1.Server.exe" />
+    <None Include="bin\Debug\net8.0\publish\Practice_Devops_ML_1.Server.pdb" />
+    <None Include="bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll" />
+    <None Include="bin\Debug\net8.0\publish\web.config" />
+    <None Include="bin\Debug\net8.0\publish\wwwroot\assets\index-COSA1rdP.js" />
+    <None Include="bin\Debug\net8.0\publish\wwwroot\vite.svg" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll" />
+    <None Include="bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll" />
     <None Include="obj\Debug\net8.0\apphost.exe" />
     <None Include="obj\Debug\net8.0\Practice.11FFB6D4.Up2Date" />
     <None Include="obj\Debug\net8.0\Practice_Devops_ML_1.Server.AssemblyInfoInputs.cache" />

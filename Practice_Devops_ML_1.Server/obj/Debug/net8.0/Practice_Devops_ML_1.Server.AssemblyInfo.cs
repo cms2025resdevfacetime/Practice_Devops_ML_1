@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practice_Devops_ML_1.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e8d88303f2f5465d7396ace6c64dc9f5bc9d1b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f6cd4476cbfb5de5273d6f28bd7f58e664653e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practice_Devops_ML_1.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practice_Devops_ML_1.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
