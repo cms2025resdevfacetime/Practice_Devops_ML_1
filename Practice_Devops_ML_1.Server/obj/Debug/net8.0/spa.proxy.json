@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Administrator\\source\\repos\\Practice_Devops_ML_1\\Practice_Devops_ML_1.Server\\..\\practice_devops_ml_1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

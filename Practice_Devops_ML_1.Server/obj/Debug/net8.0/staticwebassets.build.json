@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "9p9g2dJFwmbCAsWIzRXmKLuRvJCon2iDK0zCsfv4m+4=",
+  "Source": "Practice_Devops_ML_1.Server",
+  "BasePath": "_content/Practice_Devops_ML_1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Administrator\\source\\repos\\Practice_Devops_ML_1\\practice_devops_ml_1.client\\practice_devops_ml_1.client.esproj",
+      "Version": 2,
+      "Source": "practice_devops_ml_1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
